@@ -1,0 +1,20 @@
+body{
+    color: black;
+     background-image: url(https://previews.123rf.com/images/marisha5/marisha51010/marisha5101000057/8009927-frame-made-of-money-isolated-on-white-background.jpg); background-position: center;
+}
+
+.screen{
+    width: 300px;
+    height: 100px;
+    background-color: silver;
+    border-radius: 9px;
+    border: 3px solid black;
+    margin: auto;
+    box-shadow: 3px 3px 4px greenyellow;
+
+    color: honeydew;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
